@@ -1,0 +1,76 @@
+{
+  "settings": {
+    "name": "Site-10-28_2304",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "versionFirst": "4.3.5",
+    "uniqCompNum": 1,
+    "versionPublish": "4.3.5"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Августин Городецкий",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/XBleNfmkScA?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=XBleNfmkScA",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
+          },
+          "title": "&nbsp;Августин <br><br>Городецкий<br><br>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"http://steamcommunity.com/id/ex3e1337\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;Steam I</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://vk.com/gazoviy_gigant\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp;VK &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"http://steamcommunity.com/profiles/76561198015711090/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Steam II</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-0",
+          "_styles": {
+            ".btn": {
+              "font-size": "16px"
+            },
+            "H1": {
+              "font-size": "100px",
+              "color": "#7ac673"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
